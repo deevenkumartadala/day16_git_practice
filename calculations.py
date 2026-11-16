@@ -9,3 +9,6 @@ def mul(a,b):
 
 def div(a,b):
     return a/b
+
+def calculate_discount(amount):
+    return amount*0.10
